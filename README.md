@@ -30,7 +30,7 @@
 
 **(English)**
 ```
-[Ring bell 3 times. Step into the circle.]
+[Step into the circle. Ring bell 3 times.]
 
 In the name of the Goddess who dances in the flames,
 I open this circle on the night of Beltaine.
