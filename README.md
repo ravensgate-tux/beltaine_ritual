@@ -95,7 +95,7 @@ So may it be.
 Deviant Moon Tarot や本棚神殿、フラフープ魔法円といった現代的な象徴を取り入れながら、
 火と生命の力を讃えるこの夜を、心から祝ってください。
 
-![The Lovers Card - Deviant Moon Tarot](images/the_lovers.jpg)
+![The Lovers Card - Deviant Moon Tarot](the_lovers.jpg)
 
 📎 関連文書（環境設定ガイド）
 - `temples/bookshelf-temple.md`：本棚神殿の構築例
