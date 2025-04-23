@@ -104,6 +104,5 @@ Deviant Moon Tarot や本棚神殿、フラフープ魔法円といった現代�
 
 ---
 
-© 2025 Ravensgate-Tux. この文書は [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
-
-🕯️🔥🃏
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
