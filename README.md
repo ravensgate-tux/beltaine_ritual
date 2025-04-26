@@ -33,7 +33,8 @@
 ```
 [Step into the circle. Ring bell 3 times.]
 
-In the name of the Goddess who dances in the flames,
+In the names of the Goddess who dances in the flames,  
+and the God who stands in the greening fields,  
 I open this circle on the night of Beltaine.
 
 I call upon joy, union, and sacred passion.
@@ -63,7 +64,8 @@ So may it be.
 ```
 ［円に入り、ベルを3回鳴らす］
 
-炎の中で舞う女神の御名において、
+炎の中で舞う女神と、  
+緑萌える野に立つ男神の御名において、  
 私はこのベルテインの夜に円を開く
 
 喜びと結び、聖なる情熱をここに招く。
