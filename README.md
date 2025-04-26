@@ -10,7 +10,9 @@
 
 祝祭自体は「男神と女神」の象徴に基づいて行うものであり、特定の神格への呼びかけは行いません。
 
-<img src="ganesha_hekate.png" width="500">
+<div align="center">
+  <img src="ganesha_hekate.png" width="500">
+</div>
 
 ---
 
