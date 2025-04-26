@@ -97,11 +97,9 @@ Deviant Moon Tarot や本棚神殿、フラフープ魔法円といった現代�
 火と生命の力を讃えるこの夜を、心から祝ってください
 
 ---
-
-<img src="the_lovers.jpg" width="300">
-
-📎 関連文書（環境設定ガイド）
-- `bookshelf-temple.md`：本棚神殿の構築例
+<div align="center">
+  <img src="the_lovers.jpg" width="300">
+</div>
 
 ---
 
