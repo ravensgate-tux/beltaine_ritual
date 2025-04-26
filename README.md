@@ -29,7 +29,7 @@
 
 ### 🔹Ritual Text（儀式文）
 
-**(English)**
+🇬🇧 English
 ```
 [Step into the circle. Ring bell 3 times.]
 
@@ -59,7 +59,7 @@ I dance the fire within. I honor the union of light and shadow.
 So may it be.
 ```
 
-**（日本語訳）**
+🇯🇵 日本語
 ```
 ［円に入り、ベルを3回鳴らす］
 
